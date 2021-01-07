@@ -17,9 +17,9 @@ I WANT a walk-through of the codebase
 SO THAT I can use it as a starting point for a new project 
 ___
 ## Installation
-- No installation required.  The code files are for information purpose only.
+- No installation is required.  The code files are for information purpose only.
 
-- Refer to the Google Doc link below for File/Code descriptions, and Additional Instruction to add or make improvements.
+- Refer to the Google Docs link below for File/Code descriptions, and Additional Instruction to add or make improvements.
    
 _____
 ## Usage
